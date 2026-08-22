@@ -1,0 +1,97 @@
+﻿<head>
+    <script>
+            (function(w, i, g) { w[g] = w[g] || []; if (typeof w[g].push == 'function') w[g].push(i) })
+        (window, 'GTM-WHH7CJ83', 'google_tags_first_party');</script>
+        <script>
+                (function(w, d, s, l) {
+                    w[l] = w[l] || []; (function() { w[l].push(arguments); })('set', 'developer_id.dYzg1YT', true);
+                    w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s); j.async = true; j.src = '/wzrt/';
+                    f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer');</script>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <title>AdminLTE 4 | Fixed Header</title>
+
+            <!--begin::Theme Init (prevents flash of incorrect theme on load, #6043)-->
+            <script>
+                    (() => {
+                        'use strict';
+                        const root = document.documentElement;
+
+                        // Applications with their own theming opt out of AdminLTE's color mode
+                        // entirely, here as well as in the bundle.
+                        if (root.getAttribute('data-lte-color-mode') === 'off') {
+                            return;
+                        }
+
+                        const STORAGE_KEY = 'lte-theme';
+                        let stored = null;
+                        try {
+                            stored = localStorage.getItem(STORAGE_KEY);
+                        } catch {
+                            // localStorage may be unavailable (private mode, sandboxed iframe).
+                        }
+                        // Mirror the precedence in color-mode.ts: the visitor's stored choice
+                        // wins, then a theme this page declared itself, then the OS preference.
+                        const authored = root.getAttribute('data-bs-theme');
+                        let resolved = 'light';
+                        if (stored === 'dark' || stored === 'light') {
+                            resolved = stored;
+                        } else if (authored === 'dark' || authored === 'light') {
+                            resolved = authored;
+                        } else if (globalThis.matchMedia('(prefers-color-scheme: dark)').matches) {
+                            resolved = 'dark';
+                        }
+                        root.setAttribute('data-bs-theme', resolved);
+                        root.style.colorScheme = resolved;
+                        // Flag values computed here, so the bundle does not mistake them for a
+                        // theme the page declared and stop following the OS preference.
+                        if (resolved !== authored) {
+                            root.setAttribute('data-lte-theme-resolved', '');
+                        }
+                    })();
+            </script>
+            <!--end::Theme Init-->
+            <!--begin::Accessibility Meta Tags-->
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+            <meta name="color-scheme" content="light dark" />
+            <meta name="theme-color" content="#007bff" media="(prefers-color-scheme: light)" />
+            <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)" />
+            <!--end::Accessibility Meta Tags-->
+            <!--begin::Primary Meta Tags-->
+            <meta name="title" content="AdminLTE 4 | Fixed Header" />
+            <meta name="author" content="ColorlibHQ" />
+            <meta name="description"
+                  content="AdminLTE is a free Bootstrap 5 admin dashboard template with almost 50 example pages, built with vanilla JS and designed with accessibility in mind." />
+            <meta name="keywords"
+                  content="bootstrap 5, bootstrap, bootstrap 5 admin dashboard, bootstrap 5 dashboard, bootstrap 5 charts, bootstrap 5 calendar, bootstrap 5 datepicker, bootstrap 5 tables, bootstrap 5 datatable, vanilla js datatable, colorlibhq, colorlibhq dashboard, colorlibhq admin dashboard, accessible admin panel" />
+            <!--end::Primary Meta Tags-->
+            <!--begin::Accessibility Features-->
+            <!-- Skip links will be dynamically added by accessibility.js -->
+            <meta name="supported-color-schemes" content="light dark" />
+<link href="~/admin/css/adminlte.css" rel="stylesheet" />
+<a href="~/admin/css/adminlte.css.map">~/admin/css/adminlte.css.map</a>
+            <!--end::Accessibility Features-->
+            <!--begin::Fonts-->
+            <link rel="stylesheet"
+                  href="https://cdn.jsdelivr.net/npm/@@fontsource/source-sans-3@5.0.12/index.css"
+                  integrity="sha256-tXJfXfp6Ewt1ilPzLDtQnJV4hclT9XuaZUKyUvmyr+Q="
+                  crossorigin="anonymous"
+                  media="print"
+                  onload="this.media = 'all'" />
+            <!--end::Fonts-->
+            <!--begin::Third Party Plugin(OverlayScrollbars)-->
+            <link rel="stylesheet"
+                  href="https://cdn.jsdelivr.net/npm/overlayscrollbars@2.11.0/styles/overlayscrollbars.min.css"
+                  crossorigin="anonymous" />
+            <!--end::Third Party Plugin(OverlayScrollbars)-->
+            <!--begin::Third Party Plugin(Bootstrap Icons)-->
+            <link rel="stylesheet"
+                  href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
+                  crossorigin="anonymous" />
+            <!--end::Third Party Plugin(Bootstrap Icons)-->
+            <!--begin::Required Plugin(AdminLTE)-->
+            <link rel="stylesheet" href="../css/adminlte.css" />
+            <!--end::Required Plugin(AdminLTE)-->
+            <script data-cfasync="false" nonce="7d4f70a4-c4c4-4484-9680-a1e8804bac57">try { (function(w, d) { !function(lP, lQ, lR, lS) { if (lP.zaraz) console.error("zaraz is loaded twice"); else { lP[lR] = lP[lR] || {}; lP[lR].executed = []; lP.zaraz = { deferred: [], listeners: [] }; lP.zaraz._v = "20"; lP.zaraz._n = "7d4f70a4-c4c4-4484-9680-a1e8804bac57"; lP.zaraz.q = []; lP.zaraz._f = function(lT) { return async function() { var lU = Array.prototype.slice.call(arguments); lP.zaraz.q.push({ m: lT, a: lU }) } }; for (const lV of ["track", "set", "debug"]) lP.zaraz[lV] = lP.zaraz._f(lV); lP.zaraz.init = () => { var lW = lQ.getElementsByTagName(lS)[0], lX = lQ.createElement(lS), lY = lQ.getElementsByTagName("title")[0]; lY && (lP[lR].t = lQ.getElementsByTagName("title")[0].text); lP[lR].x = Math.random(); lP[lR].w = lP.screen.width; lP[lR].h = lP.screen.height; lP[lR].j = lP.innerHeight; lP[lR].e = lP.innerWidth; lP[lR].l = lP.location.href; lP[lR].r = lQ.referrer; lP[lR].k = lP.screen.colorDepth; lP[lR].n = lQ.characterSet; lP[lR].o = (new Date).getTimezoneOffset(); if (lP.dataLayer) for (const lZ of Object.entries(Object.entries(dataLayer).reduce((l$, ma) => ({ ...l$[1], ...ma[1] }), {}))) zaraz.set(lZ[0], lZ[1], { scope: "page" }); lP[lR].q = []; for (; lP.zaraz.q.length;) { const mb = lP.zaraz.q.shift(); lP[lR].q.push(mb) } lX.defer = !0; for (const mc of [localStorage, sessionStorage]) Object.keys(mc || {}).filter(me => me.startsWith("_zaraz_")).forEach(md => { try { lP[lR]["z_" + md.slice(7)] = JSON.parse(mc.getItem(md)) } catch { lP[lR]["z_" + md.slice(7)] = mc.getItem(md) } }); lX.referrerPolicy = "origin"; lX.src = "/cdn-cgi/zaraz/s.js?z=" + btoa(encodeURIComponent(JSON.stringify(lP[lR]))); lW.parentNode.insertBefore(lX, lW) };["complete", "interactive"].includes(lQ.readyState) ? zaraz.init() : lP.addEventListener("DOMContentLoaded", zaraz.init) } }(w, d, "zarazData", "script"); window.zaraz._p = async nK => new Promise(nL => { if (nK) { nK.e && nK.e.forEach(nM => { try { const nN = d.querySelector("script[nonce]"), nO = nN?.nonce || nN?.getAttribute("nonce"), nP = d.createElement("script"); nO && (nP.nonce = nO); nP.innerHTML = nM; nP.onload = () => { d.head.removeChild(nP) }; d.head.appendChild(nP) } catch (nQ) { console.error(`Error executing script: ${nM}\n`, nQ) } }); Promise.allSettled((nK.f || []).map(nR => fetch(nR[0], nR[1]))) } nL() }); zaraz._p({ "e": ["(function(w,d){})(window,document)"] }); })(window, document) } catch (e) { throw fetch("/cdn-cgi/zaraz/t"), e; };</script>
+        </head>

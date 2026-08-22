@@ -1,0 +1,33 @@
+﻿<!doctype html>
+<html lang="en">
+<!--begin::Head-->
+<head>
+    <partial name="_head" />
+</head>
+        <!--end::Head-->
+        <!--begin::Body-->
+        <body class="fixed-header sidebar-expand-lg bg-body-tertiary">
+            <!--begin::App Wrapper-->
+            <div class="app-wrapper">
+
+                <partial name="_nav" />
+
+                <!--begin::Sidebar-->
+                <partial name="_aside" />
+                <!--end::Sidebar-->
+                <!--begin::App Main-->
+                <main class="app-main">
+                    <!--begin::App Content Header-->
+                    @RenderBody()
+                </main>
+                <!--end::App Main-->
+                <!--begin::Footer-->
+                <partial name="_footer" />
+                <!--end::Footer-->
+            </div>
+            <!--end::App Wrapper-->
+            <!--begin::Script-->
+            <!--begin::Third Party Plugin(OverlayScrollbars)-->
+            <partial name="_script" />
+        </body>
+        <!--end::Body-->
