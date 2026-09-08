@@ -3,35 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\admin\\views\\shared\\_script.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\admin\\views\\shared\\_script.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\admin\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\admin\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\user\\data\\applicationdbcotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\user\\data\\applicationdbcotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\admin\\views\\shared\\_aside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\admin\\views\\shared\\_aside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\admin\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\admin\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\admin\\views\\shared\\_nav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\admin\\views\\shared\\_nav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\admin\\views\\shared\\_head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\admin\\views\\shared\\_head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\AdminLTE-4.4.1\\AdminLTE-4.4.1\\dist\\css\\adminlte.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|c:\\users\\hp\\desktop\\asp15\\mvc_project\\areas\\admin\\views\\catagory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F0B04E-6C7B-C5BA-B6CC-17D727F1F678}|mvc_project.csproj|solutionrelative:areas\\admin\\views\\catagory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,107 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_script.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_script.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_script.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_script.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_script.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-22T20:32:36.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_footer.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_footer.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_footer.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-22T20:31:06.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_aside.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_aside.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_aside.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_aside.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_aside.cshtml",
-              "ViewState": "AgIAAHcCAAAAAAAAAAAAAIgCAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-22T20:29:59.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_nav.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_nav.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_nav.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_nav.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_nav.cshtml",
-              "ViewState": "AgIAACMBAAAAAAAAAAAAADQBAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-22T20:28:47.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_head.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_head.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_head.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_head.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_head.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-22T20:26:55.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "adminlte.min.css",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\AdminLTE-4.4.1\\AdminLTE-4.4.1\\dist\\css\\adminlte.min.css",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\AdminLTE-4.4.1\\AdminLTE-4.4.1\\dist\\css\\adminlte.min.css",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\AdminLTE-4.4.1\\AdminLTE-4.4.1\\dist\\css\\adminlte.min.css",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\AdminLTE-4.4.1\\AdminLTE-4.4.1\\dist\\css\\adminlte.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-22T18:43:29.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Title": "ApplicationDbCotext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\User\\Data\\ApplicationDbCotext.cs",
+              "RelativeDocumentMoniker": "Areas\\User\\Data\\ApplicationDbCotext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\User\\Data\\ApplicationDbCotext.cs",
+              "RelativeToolTip": "Areas\\User\\Data\\ApplicationDbCotext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T18:33:28.367Z",
+              "WhenOpened": "2026-09-07T18:37:41.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\User\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\User\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\User\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\User\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:38:01.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\User\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\User\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-19T18:25:44.913Z",
+              "WhenOpened": "2026-09-06T15:04:43.328Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Catagory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Catagory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Views\\Catagory\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Catagory\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T11:39:12.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatagoryController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Controllers\\CatagoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CatagoryController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\asp15\\mvc_project\\Areas\\Admin\\Controllers\\CatagoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CatagoryController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T17:11:08.9Z"
             }
           ]
         }

@@ -235,3 +235,4 @@ C:\Users\HP\Desktop\asp15\mvc_project\obj\Debug\net10.0\compressed\bf3q52ucsx-{0
 C:\Users\HP\Desktop\asp15\mvc_project\obj\Debug\net10.0\compressed\ff0h925yjp-{0}-gcwjsvasvn-gcwjsvasvn.gz
 C:\Users\HP\Desktop\asp15\mvc_project\obj\Debug\net10.0\compressed\yiv7tgipdx-{0}-8u225jgjnc-8u225jgjnc.gz
 C:\Users\HP\Desktop\asp15\mvc_project\obj\Debug\net10.0\compressed\4j367qhgsd-{0}-t0v70gx5co-t0v70gx5co.gz
+C:\Users\HP\Desktop\asp15\mvc_project\obj\Debug\net10.0\mvc_project.sourcelink.json

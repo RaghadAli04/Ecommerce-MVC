@@ -1,0 +1,51 @@
+﻿@model List<Catagory>
+@if (!Model.Any())
+{
+    <div class="alert alert-danger" role="alert">
+        No Catagory Found
+    </div>
+
+}
+else {
+    <div class="card-body">
+        <table class="table table-bordered" role="table">
+            <thead>
+                <tr>
+                    <th style="width: 10px" scope="col">#</th>
+                    <th scope="col">Task</th>
+                    <th scope="col">Progress</th>
+                    <th style="width: 40px" scope="col">Label</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in @Model) {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td>
+                            @if (item.Status == mvc_project.Enums.CategoryStatus.Active)
+                            {
+                                <span class="badge rounded-pill text-bg-success">@item.Status</span>
+                            }
+                                        else
+                                {
+                                    <span class="badge rounded-pill text-bg-danger">@item.Status</span>
+                                }
+                        <td>
+                            <a asp-controller="Catagory" asp-action="Delete" asp-action-id="@item.Id" class="btn btn-danger mb-2">Delete</a>
+                            <a asp-controller="Catagory" asp-action="Edit" asp-action-id="@item.Id" class="btn btn-danger mb-2">Edit</a>
+
+                        </td>
+                            
+                            
+                        </td>
+
+
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+
+    </div>
+}
